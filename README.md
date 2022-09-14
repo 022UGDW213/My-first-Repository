@@ -1,19 +1,17 @@
--^📫 ---How to reach me ...
+-📫 ---(How to reach me)...<-
 
-- �  https://sites.google.com/view/022ugdw213/blog?fbclid=IwAR3M7PoMziMjCaGIBD-QUdnBQKAMCKPS69RlAbT4J5DET-G7E5M7HR_Ht7c     
+- � (https://sites.google.com/view/022ugdw213/blog?fbclid=IwAR3M7PoMziMjCaGIBD-QUdnBQKAMCKPS69RlAbT4J5DET-G7E5M7HR_Ht7c)    
  
-var gfg= function(){  
-    print("Hi, My name is Juan !!!");  
-};  
-gfg(); 
+-   var gfg= function(){print
+-    ("Hi, My name is Juan !!!");};gfg(); 
 
 
--  👀  I’m interested in ...Programing
-    ^-
-- ....
-- �  I’m currently learning ...
+-👀 I’m interested in ..."Programing"
+  ^-
 
--^     //   Visual Studio
+- �  "I’m currently learning" ...
+
+-    //   "Visual Studio"
 
 -  ...      Linux//Windows//Android /etc...
 
