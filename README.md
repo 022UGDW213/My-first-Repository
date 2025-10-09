@@ -1,6 +1,6 @@
 -📫 ---(How to reach me)...<-
 
-- � (https://sites.google.com/view/022ugdw213/blog?fbclid=IwAR3M7PoMziMjCaGIBD-QUdnBQKAMCKPS69RlAbT4J5DET-G7E5M7HR_Ht7c)    
+- � ([https://sites.google.com/view/022ugdw213/blog?fbclid=IwAR3M7PoMziMjCaGIBD-QUdnBQKAMCKPS69RlAbT4J5DET-G7E5M7HR_Ht7c](https://sites.google.com/view/o22ugdw213/home))    
  
 -   var gfg= function(){print
 -    ("Hi, My name is Juan !!!");};gfg(); 
