@@ -1,4 +1,4 @@
-# 022UGDW213 - Juan Jose Serrano Palacio
+# 022UGDW213 - 
 
 [![CyberSecurity Pro](https://img.shields.io/badge/Role-CyberSecurity%20Pro-red?style=flat&logo=hackaday)](https://github.com/022UGDW213)
 [![GitHub](https://img.shields.io/badge/GitHub-022UGDW213-black?style=flat&logo=github)](https://github.com/022UGDW213)
