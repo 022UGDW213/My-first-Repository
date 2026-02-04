@@ -1,30 +1,51 @@
--📫 ---(How to reach me)...<-
+# 022UGDW213 - Juan Jose Serrano Palacio
 
-- � ([https://sites.google.com/view/022ugdw213/blog?fbclid=IwAR3M7PoMziMjCaGIBD-QUdnBQKAMCKPS69RlAbT4J5DET-G7E5M7HR_Ht7c](https://sites.google.com/view/o22ugdw213/home))    
- 
--   var gfg= function(){print
--    ("Hi, My name is Juan !!!");};gfg(); 
+[![CyberSecurity Pro](https://img.shields.io/badge/Role-CyberSecurity%20Pro-red?style=flat&logo=hackaday)](https://github.com/022UGDW213)
+[![GitHub](https://img.shields.io/badge/GitHub-022UGDW213-black?style=flat&logo=github)](https://github.com/022UGDW213)
 
+## 👋 Hi, I'm Juan!
 
--👀 I’m interested in ..."Programing"
-  ^-
+**CyberSecurity Professional | Developer | Researcher**
 
-- �  "I’m currently learning" ...
+---
 
--    //   "Visual Studio"
+## 💻 Programming Languages
 
-- ... 
+| Language | Proficiency | Focus Area |
+|----------|-------------|------------|
+| **C** | ⭐⭐⭐⭐⭐ | Kernel Development, Embedded Systems |
+| **Assembly (x86)** | ⭐⭐⭐⭐ | Low-level Security, Bootloaders |
+| **TypeScript** | ⭐⭐⭐⭐ | Web Development, React |
+| **C++** | ⭐⭐⭐⭐ | High-Performance Systems |
+| **Python** | ⭐⭐⭐ | Scripting, Automation, Security Tools |
+| **Shell/Bash** | ⭐⭐⭐⭐ | DevOps, CI/CD, System Administration |
+| **JavaScript** | ⭐⭐⭐⭐ | Full-Stack Development |
+| **HTML/CSS** | ⭐⭐⭐⭐ | Frontend Design |
 
--  ...      Linux//Windows//Android /etc...
+---
 
--   iSearch.net/xcode
--     You.com/code
+## 🔧 Technologies & Tools
 
--  
+- **IDEs**: Visual Studio, VS Code, Xcode
+- **OS**: Linux, Windows, macOS, Android
+- **Security**: CVE Research, Vulnerability Analysis
+- **AI**: DeepSeek, Kimi, LLM Integration
+- **Search**: iSearch.net, You.com/code
 
-<-    ---@022UGDW213 tiktok -^
+---
 
-#022UGDW213 Special Repository  its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1>?
+## 📫 Contact
+
+- 🌐 [Personal Website](https://sites.google.com/view/o22ugdw213/home)
+- 🎵 [TikTok @022UGDW213](https://tiktok.com/@022UGDW213)
+
+---
+
+## 🚀 Featured Projects
+
+- [**Harmony OS NexT**](https://github.com/022UGDW213/Harmony-OS-Next) - AI-Powered Desktop Environment with Kernel Development
+- [**CyberLab**](https://d1547hb5pfnc01.cloudfront.net) - Security Intelligence Dashboard
+
+---
+
+*Authored by Juan Jose Serrano Palacio*
