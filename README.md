@@ -1,51 +1,41 @@
-# 022UGDW213 - 
+# My First Repository
 
-[![CyberSecurity Pro](https://img.shields.io/badge/Role-CyberSecurity%20Pro-red?style=flat&logo=hackaday)](https://github.com/022UGDW213)
-[![GitHub](https://img.shields.io/badge/GitHub-022UGDW213-black?style=flat&logo=github)](https://github.com/022UGDW213)
+> Created by [022UGDW213 (Time Loops)](https://github.com/022UGDW213) — Tech Enthusiast | Cybersecurity | AI Explorer
 
-## 👋 Hi, I'm Juan!
+## About
 
-**CyberSecurity Professional | Developer | Researcher**
+This is my first GitHub repository, serving as a portfolio showcase and learning resource for version control, web development, and AI.
 
----
+## Repository Contents
 
-## 💻 Programming Languages
+| File | Description |
+|------|-------------|
+| `README.md` | This documentation |
+| `Email Signature.html` | Professional email signature template |
+| `Untitled Diagram.drawio` | System architecture diagram |
+| `bg.mp4` | Background video asset |
 
-| Language | Proficiency | Focus Area |
-|----------|-------------|------------|
-| **C** | ⭐⭐⭐⭐⭐ | Kernel Development, Embedded Systems |
-| **Assembly (x86)** | ⭐⭐⭐⭐ | Low-level Security, Bootloaders |
-| **TypeScript** | ⭐⭐⭐⭐ | Web Development, React |
-| **C++** | ⭐⭐⭐⭐ | High-Performance Systems |
-| **Python** | ⭐⭐⭐ | Scripting, Automation, Security Tools |
-| **Shell/Bash** | ⭐⭐⭐⭐ | DevOps, CI/CD, System Administration |
-| **JavaScript** | ⭐⭐⭐⭐ | Full-Stack Development |
-| **HTML/CSS** | ⭐⭐⭐⭐ | Frontend Design |
+## Tech Stack
 
----
+- **Languages:** Python, HTML, CSS, JavaScript, C
+- **AI/ML:** TensorFlow, PyTorch, Ollama, HuggingFace
+- **Cloud:** AWS (EC2, Bedrock), Cloudflare
+- **Tools:** Git, Docker, VS Code
+- **OS:** macOS, Linux, HarmonyOS
 
-## 🔧 Technologies & Tools
+## Connect
 
-- **IDEs**: Visual Studio, VS Code, Xcode
-- **OS**: Linux, Windows, macOS, Android
-- **Security**: CVE Research, Vulnerability Analysis
-- **AI**: DeepSeek, Kimi, LLM Integration
-- **Search**: iSearch.net, You.com/code
+- GitHub: [@022UGDW213](https://github.com/022UGDW213)
+- Website: [o22ugdw213.network](https://sites.google.com/view/o22ugdw213/home)
+- YouTube: [@O22UGDW213](https://youtube.com/@O22UGDW213)
 
----
+## Projects
 
-## 📫 Contact
+- [iBot Synthetic Intelligence](https://github.com/022UGDW213) — Autonomous AI platform with 136+ skills
+- [Harmony-OS-Next](https://github.com/022UGDW213/Harmony-OS-Next) — HarmonyOS development
+- [Python-Programming](https://github.com/022UGDW213/Python-Programing) — Python scripts and AI tools
+- [Network](https://github.com/022UGDW213/network) — Web application dashboard
 
-- 🌐 [Personal Website](https://sites.google.com/view/o22ugdw213/home)
-- 🎵 [TikTok @022UGDW213](https://tiktok.com/@022UGDW213)
+## License
 
----
-
-## 🚀 Featured Projects
-
-- [**Harmony OS NexT**](https://github.com/022UGDW213/Harmony-OS-Next) - AI-Powered Desktop Environment with Kernel Development
-- [**CyberLab**](https://d1547hb5pfnc01.cloudfront.net) - Security Intelligence Dashboard
-
----
-
-*Authored by Juan Jose Serrano Palacio*
+MIT License — see [LICENSE](LICENSE)
