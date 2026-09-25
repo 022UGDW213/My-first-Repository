@@ -26,7 +26,7 @@ This is my first GitHub repository, serving as a portfolio showcase and learning
 ## Connect
 
 - GitHub: [@022UGDW213](https://github.com/022UGDW213)
-- Website: [o22ugdw213.network](https://sites.google.com/view/o22ugdw213/home)
+- Website: [o22ugdw213.network](https://o22ugdw213.network)
 - YouTube: [@O22UGDW213](https://youtube.com/@O22UGDW213)
 
 ## Projects
