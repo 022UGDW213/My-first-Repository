@@ -7,14 +7,16 @@
   Self-contained HTML email signature. No scripts, no external stylesheets, no remote
   images or fonts — every value is inline so the file works offline and does not phone home.
 
-  Contact values (all verified 2026-09-26):
+  Contact values (re-verified 2026-09-27):
     Name / author line   DEPLOY.md and the commit author of this repository
     GitHub handle        https://github.com/022UGDW213            -> HTTP 200
-    Website              https://o22ugdw213.network               -> HTTP 200
+    Website              https://o22ugdw213.network               -> HTTP 200 (www. host -> HTTP 404)
     YouTube              https://youtube.com/@O22UGDW213          -> HTTP 200
-    Role, display name   GitHub account 022UGDW213 ("Time Loops"), read from the account API
-    Location             GitHub account 022UGDW213 ("New York")
-    E-mail               the GitHub-provided commit address of this repository's own commits
+    Role, display name   GitHub account API: login 022UGDW213, name "Time Loops",
+                         bio "...Tech Enthusiast | Cybersecurity | Python & AI Explorer..."
+    Location             GitHub account API: location "New York"
+    E-mail               the GitHub noreply address of this repository's most recent commits
+                         (`git log -1 --format='%ae'` -> 85779081+022UGDW213@users.noreply.github.com)
 -->
 </head>
 <body style="margin:0;padding:16px;background:#ffffff;">
